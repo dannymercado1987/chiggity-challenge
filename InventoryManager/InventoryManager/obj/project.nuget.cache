@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXhV9aiSTqWzORERO4zPKyrybXNXuxOWlp8H2sUi5Fw3ntFGAmwCL4uN5S1UFLUx3BBkqc/dw0SHH23u0AIbVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damer\\OneDrive\\Desktop\\ui-interface-challenge\\InventoryManager\\InventoryManager\\InventoryManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damer\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\damer\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\damer\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
